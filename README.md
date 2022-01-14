@@ -1,5 +1,7 @@
 # MFM-150
 
+![MFM-150 Running in Bochs with the XTjr custom 8088_bios BIOS](mfm-150-bochs-xtjr.jpg))
+
 Disassembly &amp; Recreation of the Zenith MFM-150 "Multi-Function Monitor" ROM Code from the [Z150 BIOS](https://www.vcfed.org/forum/forum/marketplace/vintage-computer-items-wanted/32603-wanted-zenith-pc-xt-rom-bios-files-with-debugger-z-150-etc?32016-Wanted-Zenith-PC-XT-ROM-BIOS-files-with-DEBUGGER-Z-150-etc=).
 
 BIOS ROM code dissassembled using Ghidra and then Monitor parts moved over in sections to be reassembled in NASM to try and just pick out just the MFM-150 parts. Used [PCjs's Z150 Emulation](https://www.pcjs.org/machines/pcx86/zenith/z150/cga/?debugger=true) extensively to step through code and understand how lots of it worked. My NASM syntax is a little odd, as I only modified Ghidra's Assembly output just enough to avoid assembly errors in NASM.
