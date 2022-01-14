@@ -16,5 +16,7 @@ Anyway posting my work here incase anyone wants to continue it and maybe get it 
 
 Oh, and I'm very sorry for the Comments in the code, they are a total mess and are terrifying details into the workings inside my head at any given moement as I was triyng to make things work! I didn't clean up any of it - again my time is v. limited and can't really spend more time tidying up comment lines... Maybe my mad ramblings with be useful to someone else?
 
+Also, after a point I didn't update the Ghidra project comments and labels and focussed more on the NASM source I'd reconstructed, so they might be a bit out of sync. By the end, I was just using the Ghidra project mainly to check my understanding of the original code whilst stepping thought the PCjs Z150 debugger.
+
 Enjoy!
 
