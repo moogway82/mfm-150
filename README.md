@@ -14,5 +14,7 @@ The 'TEST' menu doesn't work at all, I started this but was too big and I felt p
 
 Anyway posting my work here incase anyone wants to continue it and maybe get it working more fully on their machine. Would be cool to see this running on a 5150/60 in-place of the CASSETTE BASIC!
 
+Oh, and I'm very sorry for the Comments in the code, they are a total mess and are terrifying details into the workings inside my head at any given moement as I was triyng to make things work! I didn't clean up any of it - again my time is v. limited and can't really spend more time tidying up comment lines... Maybe my mad ramblings with be useful to someone else?
+
 Enjoy!
 
